@@ -24,4 +24,4 @@ My first game developed from scratch in about 3 days using the amazing pico-8 Su
 
 ![Screenshot 1](screenshots/screenshot1.png)
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/screenshot2.jpg)
